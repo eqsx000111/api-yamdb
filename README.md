@@ -5,7 +5,7 @@
 ## Авторы
 
 - Иван Ильницкий
-    [GitHub](https://github.com/WhySoHurt) | [deddotu@yandex.ru](mailto:deddotu@yandex.ru)
+    [GitHub](https://github.com/eqsx000111) | [deddotu@yandex.ru](mailto:deddotu@yandex.ru)
 - Илья Горбачев
     [GitHub](https://github.com/IlyaGorbachev01) | [ilya-gorbachev01@yandex.ru](mailto:ilya-gorbachev01@yandex.ru)
 - Назар Турани
